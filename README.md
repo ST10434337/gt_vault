@@ -4,4 +4,4 @@
 2. once installed download this zip
 3. Extract the zip
 4. Open the BeardedWarrior vault in obsidain
-5. Opne the Welcome note to start your onboarding :) 
+5. Open the Welcome note to start your onboarding :) 
